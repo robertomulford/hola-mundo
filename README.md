@@ -1,2 +1,3 @@
 # hola-mundo
-este es mi primer paso en este mundo de GitHub
+Este es mi primer paso en este mundo de GitHub
+esto es muy interesante
